@@ -4,8 +4,6 @@
 
 <p align="center">
 
-![Fatim-h's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fatim-h&theme=react&hide_border=false)
-
 ![Fatim-h's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatim-h&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 </p>
