@@ -2,11 +2,6 @@
   Happy Programming 😁
 </p>
 
-<p align="center">
-
-![Fatim-h's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatim-h&theme=react&show_icons=true&hide_border=false&layout=compact)
-
-</p>
 
 <!--
 **Fatim-h/Fatim-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
