@@ -2,7 +2,9 @@
   Happy Programming 😁
 </p>
 
-
+<p align="center">
+  <img width="300" height="300" alt="pixil-gif-drawing (2)" src="https://github.com/user-attachments/assets/5aa13704-c1c5-49b1-a0f1-0a784043d1ee" /><br/>
+</p>
 <!--
 **Fatim-h/Fatim-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
